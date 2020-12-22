@@ -1,6 +1,6 @@
 
 #menu{
-    background-color: #A30B37;
+    background-color: #e63946;
 }
 
 #presentazione{
@@ -29,12 +29,16 @@
     margin-left: 35%;
     padding-bottom: 3%;
 }
+#sm-icon-footer{
+    margin-left: 45%;
+    margin-bottom: 7%;
+}
 #cv-btn{
     margin-bottom: 6%;
 }
 
 #altriskills{
-    background-color: #A30B37;
+    background-color: #e63946;
     padding-top: 2%;
     color: #f7f7f7;
 }
@@ -48,12 +52,12 @@
 }
 #cv h4{
     margin-left: 30%;
-    color: #A30B37;
+    color: #e63946;
 
 }
 
 #cv-icon{
-    margin-left: 46%;
+    margin-left: 28%;
     margin-top: 3%;
 }
 #lista ul{
@@ -102,14 +106,14 @@
     width: 0;
     position: absolute;
     pointer-events: none;
-    border-right-color: #A30B37;
+    border-right-color: #e63946;
     border-width: 10px;
     top: 10px;
 }
 #card-diploma .card-header, .card-html{
     color: #fff;
-    background-color: #A30B37;
-    border-color: #A30B37;
+    background-color: #e63946;
+    border-color: #e63946;
 }
 #card-html .card-header:after {
     right: 100%;
@@ -241,4 +245,16 @@
 #ico-cert{
     margin-left: 44%;
     margin-top: 3%;
+}
+footer {
+    color: #b87a7d;
+    padding-top: 10%;
+    background-color: #2b2d42;
+}
+footer h3{
+    font-size: 0.8em;
+}
+#email{
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
