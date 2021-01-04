@@ -5,25 +5,20 @@
 #presentazione{
     background-color: #f7f7f7;
 }
-
 #txt-presentazione{
     margin-top: 1.6%;
 }
-
 #photo{
     padding-top: 3%;
     margin-top: 4%;
     margin-left: 2%;
 }
-
 #photo img{
     max-width: 100%;
 }
-
 #sm{
     margin-top: 5%;
 }
-
 #sm-icon{
     margin-left: 10%;
     padding-bottom: 3%;
@@ -39,7 +34,6 @@
     text-decoration: none;
     color: #fff;
 }
-
 #altriskills{
     background-color: #e63946;
     padding-top: 2%;
@@ -58,7 +52,6 @@
     color: #e63946;
 
 }
-
 #cv-icon{
     margin-top: 3%;
 }
@@ -159,14 +152,14 @@
     width: 0;
     position: absolute;
     pointer-events: none;
-    border-right-color: #f7de1e;
+    border-right-color: #563d7c;
     border-width: 10px;
     top: 10px;
 }
 #card-js .card-header, .card-html{
     color: #fff;
-    background-color: #f7de1e;
-    border-color: #f7de1e;
+    background-color: #563d7c;
+    border-color: #563d7c;
 }
 #card-euro .card-header:after {
     right: 100%;
